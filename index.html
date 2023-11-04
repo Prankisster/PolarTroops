@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Planner</title>
+    <!-- Include CSS and JavaScript libraries -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Travel Planner</h1>
+    </header>
+    <main>
+        <section id="user-location">
+            <h2>Your Location</h2>
+            <button id="get-location">Get My Location</button>
+            <p id="user-coordinates"></p>
+        </section>
+        <section id="place-selection">
+            <h2>Select Places</h2>
+            <select id="places-dropdown">
+                <option value="place1">Place 1</option>
+                <option value="place2">Place 2</option>
+                <!-- Add more options dynamically based on user's location -->
+            </select>
+        </section>
+        <section id="optimized-route">
+            <h2>Optimized Route</h2>
+            <div id="map"></div>
+        </section>
+        <section id="recommendations">
+            <h2>Restaurants & Attractions</h2>
+            <ul id="recommendation-list">
+                <!-- Recommendations will be displayed here -->
+            </ul>
+        </section>
+    </main>
+    <!-- Include JavaScript file to handle user interactions -->
+    <script src="script.js"></script>
+</body>
+</html>
