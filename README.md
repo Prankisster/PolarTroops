@@ -22,4 +22,3 @@ When your tummy rumbles, just hit the food button. Your trusty guide will presen
 
 **Have an Amazing Adventure**
 
-**Just follow your Adventure Companion's suggestions and get ready for the journey of a lifetime!**
