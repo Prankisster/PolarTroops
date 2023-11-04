@@ -21,4 +21,6 @@ Suggests picturesque points in the area based on photos and experiences shared b
 When your tummy rumbles, just hit the food button. Your trusty guide will present you with the top 5 places to satisfy your hunger, just like Google's restaurant suggestions but even better!
 
 **Have an Amazing Adventure**
+Use the Geolocation API to retrieve the user's current location.
 
+Create a dropdown menu that lists places within a 50 km radius. You can use a service like Google Places API or Foursquare API to fetch nearby places based on the user's location.
