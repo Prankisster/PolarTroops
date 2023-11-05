@@ -24,3 +24,14 @@ When your tummy rumbles, just hit the food button. Your trusty guide will presen
 Use the Geolocation API to retrieve the user's current location.
 
 Create a dropdown menu that lists places within a 50 km radius. You can use a service like Google Places API or Foursquare API to fetch nearby places based on the user's location.
+
+## Log
+- **Brainstorming/Ideation**: 03 November 2023 
+- **Beginning**: 04 November 2023, from scratch
+  - Decided to build website
+  - Did backend using Django
+  - Did frontend using HTML, CSS and JS
+  - Felt building mobile App is a better option as travellers/users won't be using website to access all the features
+  - Chill Time
+  - Started working on Mobile App from scratch again
+  - Decided to go on with Flutter to develop the mobile app
