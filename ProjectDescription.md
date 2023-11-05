@@ -26,5 +26,5 @@ The Adventure Companion is your all-in-one solution:
 ### 4. **Capture Picture-Perfect Moments (under development)**
    - Never miss a breathtaking view or a stunning backdrop again. We suggest the best picturesque points based on experiences shared by other travelers on social media.
 
-### 5. **Satisfy Your Culinary Cravings**
+### 5. **Hungry?**
    - Feeling hungry & tired, or wanna try the best dishes without travelling a lot? A single tap suggests the top 5 restaurants nearby.
